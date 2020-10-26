@@ -1,12 +1,20 @@
-# Rokoko Studio Live Plugin for Maya
+<h2 align="center"> Rokoko Studio Live plugin for Maya</h1>
 
-This plugin lets you stream animation data from Rokoko Studio into Maya.
+This plugin let's you stream animation data from Rokoko Studio into Maya to preview and work with all your motion capture data easily and intuitively.
+
+It supports the following types of data:
+* Up to five actors that can all include both body, face (52 blendshapes) and finger data at the same time.
+* Camera data
+* Props data
+
+Maya versions supported: 2020 or higher
+
+Rokoko Studio version supported: 1.18.0b
+
+Maya Demo project including a character already set up for live streaming from Rokoko Studio:
+(Maya Demo project)
 
 ![pluginManager](images/pluginView.png)
-
-## Requirements
-
-Maya 2020 or higher
 
 ## Installation
 
