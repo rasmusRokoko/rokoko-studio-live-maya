@@ -12,7 +12,7 @@ Maya versions supported: 2020 or higher
 Rokoko Studio version supported: 1.18.0b
 
 Maya Demo project including a character already set up for live streaming from Rokoko Studio:
-(Maya Demo project)
+https://github.com/Rokoko/Maya-Demo-Project
 
 ![pluginManager](images/pluginView.png)
 
